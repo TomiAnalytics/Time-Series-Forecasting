@@ -22,7 +22,11 @@ Python (Pandas, NumPy, Statsmodels, Prophet), Excel
 - Allocate marketing resources during peak periods
 
 Time-Series-Forecasting/
-│
+
+├─ /data
+│    └─ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+
 ├─ /notebooks
 │    └─ Forecasting_Sales.ipynb[Superstore_Sales_Forecast_Project (1).ipynb](https://github.com/user-attachments/files/23813416/Superstore_Sales_Forecast_Project.1.ipynb)
 
